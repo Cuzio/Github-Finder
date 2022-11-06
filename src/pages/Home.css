@@ -1,0 +1,10 @@
+.full {
+    background: black;
+    align-items: center;
+    /* margin: 0; */
+    /* padding: 0; */
+    color: white;
+    text-align: center;
+    height: 525px;
+    border: 2px solid black;
+}

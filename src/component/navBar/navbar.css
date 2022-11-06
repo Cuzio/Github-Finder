@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    /* margin: auto; */
+    /* margin-bottom: 12px; */
+    background-color: rgb(39, 38, 38);
+    padding: 2px;
+    height: 50px;
+    align-items: center;
+}
+
+.git{
+    color: #fff;
+    padding: 2px;
+    font: bold;
+    margin: 10px;
+    text-align: center;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-right: 50px;
+}
+
+.button a{
+    color: #fff;
+    background-color: inherit;
+    font: bold;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.button a:hover{
+    color: blue;
+    font-size: 17px;
+}

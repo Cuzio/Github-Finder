@@ -1,0 +1,29 @@
+.hero{
+    border: 2px solid black;
+    background-color: black;
+    height: 525px;
+}
+
+.hero-content {
+    color: white;
+    text-align: center;
+}
+
+.hero-content h1{
+    font-size: 80px;
+}
+
+.btn{
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    padding: 3px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: blue;
+    font-size: 17px;
+    text-decoration: underline;
+}

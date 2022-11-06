@@ -1,0 +1,9 @@
+.about {
+    background-color: black;
+    align-items: center;
+    color: white;
+    margin: 0;
+    text-align: center;
+    height: 525px;
+    border: 2px solid black;
+}
